@@ -3,6 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/96537904/158634791-46f58621-df95-4f77-acb2-3838a9f524cc.png)
 
+Numpy is a numeric python and it is a pyhton package.
 Numpy is a general-purpose array-processing package. It provide a high-performance multidimensional array object,and tools for workingt with these arrays.
 It is the fundamental packages for scientific computing with python.
 
